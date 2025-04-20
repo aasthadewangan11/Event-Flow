@@ -23,6 +23,28 @@ Audit Logging: Maintain logs of actions taken by attendees and organizers.
 
 Access the app at http://localhost:3000.
 
+## Approach
+### Clone the Repository
+
+```
+git clone https://github.com/aasthadewangan11/Event-Flow.git
+cd Event-Flow
+```
+
+### Install Dependencies
+
+```
+npm install
+```
+
+### Run the Application
+
+```
+npm start      # for frontend React apps
+npm run dev    # for development server
+```
+
+
 ## Security
 Basic authentication with JWT.
 
